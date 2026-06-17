@@ -17,7 +17,7 @@ C:\work\stm32_rotary_encoder\
     └── Src\main.c
 ```
 
-##🔌 하드웨어 연결 (NUCLEO-F103RB)
+## 🔌 하드웨어 연결 (NUCLEO-F103RB)
 
 | 신호    | 핀    | TIM3 매핑    | 보드 커넥터 |
 |:------:|:------:|:------:|:------:|
