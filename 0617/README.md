@@ -1,6 +1,7 @@
 
 # Rotary_Encoder_TIM
 
+![Rotary_Encoder.png]
 
 ## NUCLEO-F103RB 기준 하드웨어 구성:
 * Encoder A Phase (CH1): PA6 (TIM3_CH1) ← D12
